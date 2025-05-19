@@ -1,0 +1,4 @@
+baseURL = 'https://alisahatiss.github.io/FU-DH-my-cv-website/'
+languageCode = 'en-us'
+title = 'CV Alisa Skoptintseva'
+theme = 'ananke'
