@@ -1,3 +1,10 @@
++++
+title = "Alisa Skopintseva – CV"
+date = 2025-05-20
+draft = false
+type = "page"
++++
+
 # Alisa Skopintseva
 
 ## Historian With Background In NGOs
