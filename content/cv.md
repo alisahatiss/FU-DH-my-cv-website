@@ -3,6 +3,7 @@ title = "Alisa Skopintseva – CV"
 date = 2025-05-20
 draft = false
 type = "page"
+show_title = false
 +++
 
 # Alisa Skopintseva
