@@ -1,9 +1,3 @@
-+++
-date = '2025-05-19T23:34:28+03:00'
-draft = true
-title = 'CV Alisa Skopintseva'
-+++
-
 # Alisa Skopintseva
 
 ## Historian With Background In NGOs
